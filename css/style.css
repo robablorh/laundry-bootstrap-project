@@ -1,0 +1,361 @@
+.navlink2 {
+    background-color:#f8f9fa00;
+
+}
+
+.backg{
+    background-image: url(back.jpg);
+    height: 700px;
+
+
+    background-color: gray;
+    background-blend-mode: multiply;
+
+}
+
+
+.cont1{
+    padding-top: 0rem;
+    padding-left: 25rem;
+  
+
+}
+.pcont1{
+    padding-top: 4rem;
+    font-size: 30px;
+    color: white;
+}
+.hcont1{
+    width: 450px;
+    font-weight: bold;
+    color: white;
+    font-size: 50px;
+}
+
+.btn1{
+    margin-top: 3rem;
+    color: white;
+    background-color: black;
+    width: 200px;
+}
+
+
+.cont2{
+    margin-top: 8rem;
+}
+
+.btn2{
+   margin-top: 2rem;
+   margin-left: 20rem;
+   height: 50px;
+   background-color: skyblue;
+   border-color: skyblue;
+
+}
+
+
+
+
+.cont3{
+    margin-top: 8rem;
+}
+
+.hcont3{
+    color: blue;
+
+
+}
+
+.cont4{
+    margin-top: 3rem;
+}
+
+.hcont4{
+
+    color: blue;
+    margin-bottom: 2rem;
+
+
+}
+
+
+
+.pcont4 span{
+    color: orange;
+   
+}
+
+.cont5{
+    margin-top: 8rem;
+    background-color: black;
+    color: white;
+    height: 1300px;
+}
+
+.row1{
+    padding-top: 2rem;
+}
+
+.row2{
+    margin-top: 15rem;
+}
+
+.hcont5{
+    padding-top: 3rem;
+    color: blue;
+}
+
+.cd{
+    height: 300px;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+}
+
+
+
+.p4cont5{
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+.h4con5{
+    color: white;
+    background-color: black;
+}
+
+.cbody{
+    background-color: black;
+}
+
+
+
+.cont6{
+    margin-top: 8rem;
+}
+
+
+.hcont6{
+    color: blue;
+}
+
+.ulcont6 li{
+    display: inline;
+   
+}
+
+.rowcont6{
+    margin-top: 3rem;
+}
+
+.rowcont66{
+    margin-top: 3rem;
+}
+
+.coll6{
+    background-color: light gray;
+    height: 150px;
+    padding-top: 2rem;
+}
+
+
+
+
+.cont7{
+    margin-top: 8rem;
+    background-color: black;
+    height: 60px;
+}
+
+.cont8{
+    
+    background-color: lawngreen;
+    height: 200px;
+}
+
+.ulcont8 li{
+   display: inline;
+
+}
+
+.liii{
+    padding-left: 15rem;
+    padding-top: 5rem;
+    font-size: 30px;
+    font-weight: bold;
+
+   
+}
+
+.leee{
+    padding-left: 4rem;
+    padding-top: 5rem;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.row8{
+    background-color: green;
+    padding-top: 5rem;
+    color: white;
+}
+
+.cont9{
+    margin-top: 8rem;
+}
+
+
+.hcont9{
+    padding-bottom: 3rem;
+}
+
+.cont10{
+    margin-top: 8rem;
+}
+
+.btn10{
+    margin-left: 30rem;
+    background-color: blue;
+    color: white;
+    height: 50px;
+    border-color: blue;
+    border-radius: 10px;
+    width: 300px;
+
+
+}
+
+.cont11{
+    margin-top: 8rem;
+}
+
+.hcont21{
+    color: purple;
+}
+
+.hcont11{
+   color: blue;
+}
+
+.row11{
+    margin-top: 5rem;
+}
+
+.rowc11{
+    margin-top: 3rem;
+}
+
+.cont12{
+    margin-top: 3rem;
+    background-color: black;
+    color: white;
+    padding-top: 3rem;
+}
+.pcont12{
+    padding-top: 2rem;
+    padding-left: 2rem;
+
+}
+.p2cont12{
+    margin-top: 2rem;
+    width: 100px;
+    padding-left: 2rem;
+}
+
+.p3cont12{
+    padding-top: 2rem;
+
+}
+
+.p4cont12{
+    margin-top: 2rem;
+    width: 150px;
+
+
+}
+
+.row212{
+    margin-top: 8rem;
+}
+
+.col12 li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.p5cont12{
+
+    padding-top: 2rem;
+
+}
+
+.ccont12 li{
+
+    padding-top: 1rem;
+    text-decoration: none;
+    list-style: none;
+
+
+}
+
+.col12 li{
+    display: inline;
+    text-decoration: none;
+    padding-right: 1rem;
+}
+
+
+
+.ul12 li{
+    text-decoration: non;
+    display: inline;
+    list-style: none;
+    padding-left: 2rem;
+
+}
+
+.ul12{
+    padding-left: 1.1rem;
+    width: 250px;
+}
+.p12{
+    padding-left: 3rem;
+    width: 300px;
+
+}
+
+.cool{
+    padding-left: 65rem;
+}
+.copy{
+    width: 500px;
+    padding-left: 2rem;
+}
+
+.email li{
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.email{
+    padding-right: 2rem;
+}
+
+.km{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+.rob{
+    color: white;
+    font-weight: bold;
+
+}
